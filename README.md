@@ -1,0 +1,2 @@
+# BeschleunigungRLMusterbeispieleStudien
+Studienarbeit zur Beschleunigung von Reinforcement Learning anhand von Musterbeispielen
